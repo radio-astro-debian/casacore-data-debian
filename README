@@ -6,6 +6,10 @@ Data is taken from here:
 
 ftp://ftp.atnf.csiro.au/pub/software/measures_data/measures_data.tar.bz2
 
+and then updated with the casacore script:
+
+measures/apps/measuresdata/measuresdata.csh
+
 The packages are uploaded the the SKA Ubuntu PPA repository:
 
 https://launchpad.net/~ska-sa/

@@ -1,3 +1,9 @@
+casacore-data (20140404-1trusty) trusty; urgency=low
+
+  * new upstream release
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 04 Apr 2014 13:12:30 +0200
+
 casacore-data (20130629-3precise1) precise; urgency=low
 
   * initial release
